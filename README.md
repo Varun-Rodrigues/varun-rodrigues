@@ -1,11 +1,11 @@
 # Hi, I’m Varun Rodrigues
 
-I’m a freshman at Caltech, where I’m exploring working at the intersection of machine learning and biochemistry. I enjoy building technical solutions for academic problems and practical solutions for real-world ones. 
+I’m a freshman at Caltech, where I’m exploring working at the intersection of machine learning and biochemistry. I enjoy building technical solutions for academic problems and practical solutions for real-world ones.
 
 ## Interests  
 - Machine learning and computational biochemistry  
-- Full-stack development
 - Diffusion models
+- Applied Math
 
 ## Projects
 **Founder and Creator — [CurveGenius.com](https://curvegenius.com)**  
